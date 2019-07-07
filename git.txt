@@ -2,4 +2,5 @@ Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 第四行
-创建了一个新的分支
+在master上面做出的修改
+
